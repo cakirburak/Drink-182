@@ -2,6 +2,8 @@
 
 Welcome to Drink-182, your go-to destination for exploring a vast collection of cocktail recipes! This web application allows users to browse, search, and filter cocktails based on their preferences, providing detailed information about ingredients, preparation methods, and more. Cheers to discovering your next favorite drink!
 
+- [System Design Document] (https://woolly-society-a2b.notion.site/System-Design-Document-Drink-182-1f4d4864aafe4702aa15abb8194ddc27?pvs=4)
+
 ## Features
 
 - **Browse Cocktails:** Explore a diverse selection of cocktails from around the world.
